@@ -2,7 +2,7 @@ Horiseon Webite
 file:///C:/Users/mattd/Code/uncc-challenge-1/index.html
 
 
-At Horiseon we offer;
+At Horiseon we offer the following.
 
 Search Engine Optimization - file:///C:/Users/mattd/Code/uncc-challenge-1/index.html#search-engine-optimization
 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
